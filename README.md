@@ -13,8 +13,8 @@ Amount Invested (USD): The amount of money invested in the startup (in USD).
 The dataset is a valuable resource for anyone interested in the Indian startup ecosystem. It can be used to track trends in funding, identify promising startups, and learn more about the investors who are backing Indian startups.
 
 > 🚀Possible questions :
-How does the funding ecosystem change with time?
-Do cities play a major role in funding?
-Which industries are favored by investors for funding?
-Who are the important investors in the Indian Ecosystem?
-How many funds do startups generally get in India?
+* How does the funding ecosystem change with time?
+* Do cities play a major role in funding?
+* Which industries are favored by investors for funding?
+* Who are the important investors in the Indian Ecosystem?
+* How many funds do startups generally get in India?
