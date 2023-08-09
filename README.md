@@ -1,7 +1,20 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# 🏙️Indian Startup Funding EDA Analysis ![dataset-cover](https://github.com/PrafulGotmare/startup-india-Funding-EDA-/assets/81294533/9f94beac-28d2-4d86-bbdd-abec6dcf7579)
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+This dataset contains information about Indian startups that received funding between January 2015 and August 2017. It includes the date the startup was funded, the city it is based in, the names of the investors, and the amount of money invested (in USD).
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+> 💾The dataset includes the following columns:
+
+Date: The date the startup was funded.
+City: The city the startup is based in.
+Funders: The names of the investors who funded the startup.
+Amount Invested (USD): The amount of money invested in the startup (in USD).
+
+The dataset is a valuable resource for anyone interested in the Indian startup ecosystem. It can be used to track trends in funding, identify promising startups, and learn more about the investors who are backing Indian startups.
+
+> 🚀Possible questions :
+How does the funding ecosystem change with time?
+Do cities play a major role in funding?
+Which industries are favored by investors for funding?
+Who are the important investors in the Indian Ecosystem?
+How many funds do startups generally get in India?
