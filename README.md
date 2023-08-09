@@ -20,3 +20,7 @@ The dataset is a valuable resource for anyone interested in the Indian startup e
 * Which industries are favored by investors for funding?
 * Who are the important investors in the Indian Ecosystem?
 * How many funds do startups generally get in India?
+
+> 📊Visual Dashboard :
+
+![front dashboard](https://github.com/PrafulGotmare/startup-india-Funding-EDA-/assets/81294533/46d67d34-c207-422e-bade-c92650e1dc78)
